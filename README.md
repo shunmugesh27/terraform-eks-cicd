@@ -1,4 +1,5 @@
 Ultimate CI/CD Pipeline using Jenkins and Terraform for AWS EKS
+
 Create Private bucket for storing Terraform Remote State files --> terraform-eks-cicd-7001
 
 Create Jenkins Server on EC2 using tools - Jenkins, git, Terraform and Kubectl
