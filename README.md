@@ -18,4 +18,4 @@ Run the pipeline
 
 Below is the repo which is going to be used in the Jenkins pipeline during SCM checkout.
 
-https://github.com/vishal2505/terraform-eks-cicd/tree/main
+
